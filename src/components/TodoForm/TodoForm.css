@@ -9,6 +9,7 @@
     border: none;
     padding-left: 10px;
     color: #fff;
+    outline: none;
 }
 
 .todo-form button{
